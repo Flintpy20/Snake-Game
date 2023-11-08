@@ -1,3 +1,3 @@
 # Snake-Game
 
-This is the first version of a popular game called snake that I made.
+Essa é a primeira versão de um jogo popular chamado "Snake" que eu desenvolvi em Python.
