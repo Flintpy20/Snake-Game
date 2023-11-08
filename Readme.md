@@ -1,3 +1,3 @@
 # Snake-Game
 
-Essa é a primeira versão de um jogo popular chamado snake que eu fiz.
+This is the first version of a popular game called snake that I made.
